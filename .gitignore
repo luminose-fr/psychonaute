@@ -6,7 +6,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-_calculator_source/
+calculator/_source/node_modules
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
